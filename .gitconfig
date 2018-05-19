@@ -1,0 +1,66 @@
+[credential]
+  helper = osxkeychain
+
+[user]
+  email = bonniketom@gmail.com
+  name = Tom Bonnike
+
+[core]
+  editor = /usr/local/bin/code -n -w
+  pager = diff-so-fancy | less --tabs=2 -RFX
+  ignoreCase = false
+
+[alias]
+  # Not-so-human-friendly aliases
+  s = status
+  br = branch
+  co = checkout
+
+  # Human-friendly aliases
+  tags = tag
+  undo = reset --soft HEAD~1
+  amend = commit --amend
+  graph = log --graph --pretty=oneline --decorate --abbrev-commit --date=relative
+  aliases = config --get-regexp alias
+  discard = checkout --
+  stashes = stash list
+  unstage = reset -q HEAD --
+  branches = branch -a
+  uncommit = reset --mixed HEAD~
+  nevermind = !git reset --hard HEAD && git clean -d -f
+  precommit = diff --cached --diff-algorithm=minimal -w
+
+[filter "media"]
+  clean = git media clean %f
+  smudge = git media smudge %f
+  required = true
+
+[transfer]
+  fsckobjects = true
+
+[fetch]
+  fsckobjects = true
+
+[receive]
+  fsckObjects = true
+
+[push]
+  default = current
+
+[status]
+  showUntrackedFiles = all
+
+[color]
+	ui = true
+[color "diff-highlight"]
+	oldNormal = red bold
+	oldHighlight = red bold 52
+	newNormal = green bold
+	newHighlight = green bold 22
+[color "diff"]
+	meta = 227
+	frag = magenta bold
+	commit = 227 bold
+	old = red bold
+	new = green bold
+	whitespace = red reverse
