@@ -18,7 +18,7 @@ function parse_git_branch {
   diverge_pattern="Your branch and (.*) have diverged"
 
   if [[ ! ${git_status}} =~ "working directory clean" ]]; then
-    state="${LIGHT_RED}⚡"
+    state="${LIGHT_RED}⚡ "
   fi
 
   if [[ ${git_status} =~ ${remote_pattern} ]]; then
