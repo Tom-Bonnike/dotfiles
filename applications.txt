@@ -1,0 +1,28 @@
+Caffeine.app
+Docker.app
+Firefox.app
+Franz.app
+Google Chrome.app
+iTerm.app
+Kap.app
+Keynote.app
+Muzzle.app
+Numbers.app
+Overkill.app
+Pages.app
+Postgres.app
+Postico.app
+Postman.app
+Shifty.app
+Sketch.app
+Skype.app
+Slack.app
+Spark.app
+Spectacle.app
+Spotify.app
+The Unarchiver.app
+Tunnelblick.app
+uTorrent.app
+Visual Studio Code.app
+VLC.app
+Xcode.app
