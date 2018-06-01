@@ -37,7 +37,6 @@
   "prettier.tabWidth": 2,
   "prettier.trailingComma": "none",
   "prettier.useTabs": false,
-  "sublimeTextKeymap.promptV3Features": true,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.zoomLevel": 0,
   "workbench.activityBar.visible": true,
