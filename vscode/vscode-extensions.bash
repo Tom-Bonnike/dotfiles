@@ -14,12 +14,15 @@ code --install-extension eg2.vscode-npm-script
 code --install-extension esbenp.prettier-vscode
 code --install-extension file-icons.file-icons
 code --install-extension flowtype.flow-for-vscode
+code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension kumar-harsh.graphql-for-vscode
 code --install-extension ms-vscode.Go
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension naumovs.color-highlight
 code --install-extension naumovs.theme-oceanicnext
+code --install-extension Orta.vscode-jest
 code --install-extension pnp.polacode
+code --install-extension Prisma.vscode-graphql
 code --install-extension rebornix.Ruby
 code --install-extension tombonnike.vscode-status-bar-format-toggle
 code --install-extension wix.vscode-import-cost
