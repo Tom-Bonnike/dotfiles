@@ -20,7 +20,6 @@ code --install-extension ms-vscode.Go
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension naumovs.color-highlight
 code --install-extension naumovs.theme-oceanicnext
-code --install-extension Orta.vscode-jest
 code --install-extension pnp.polacode
 code --install-extension Prisma.vscode-graphql
 code --install-extension rebornix.Ruby
