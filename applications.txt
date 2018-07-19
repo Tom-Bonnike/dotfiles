@@ -13,7 +13,6 @@ Pages.app
 Postgres.app
 Postico.app
 Postman.app
-Shifty.app
 Sketch.app
 Skype.app
 Slack.app
