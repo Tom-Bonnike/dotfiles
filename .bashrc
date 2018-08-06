@@ -49,7 +49,7 @@ function prompt_func() {
       TITLEBAR=""
     fi
 
-    prompt="${TITLEBAR}${BLUE}[${YELLOW}\w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
+    prompt="${TITLEBAR}${BLUE}[${YELLOW}\w${RED}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
 
     if test $previous_return_value -eq 0
     then
