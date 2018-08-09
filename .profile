@@ -1,2 +1,3 @@
-alias projects='cd ~/desktop/projects'
+alias "gti=git"
 
+alias projects='cd ~/desktop/projects'
