@@ -29,6 +29,7 @@
   uncommit = reset --mixed HEAD~
   nevermind = !git reset --hard HEAD && git clean -d -f
   precommit = diff --cached --diff-algorithm=minimal -w
+  force = push --force-with-lease
 
 [filter "media"]
   clean = git media clean %f
