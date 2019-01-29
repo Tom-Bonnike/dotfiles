@@ -13,3 +13,4 @@ React Developer Tools
 Redirect Path
 Redux DevTools
 uBlock Origin
+Disable Cookies
