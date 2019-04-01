@@ -1,5 +1,7 @@
 #!/bin/bash
 # Generated using: code --list-extensions | xargs -L 1 echo code --install-extension
+code --install-extension apollographql.vscode-apollo
+code --install-extension bierner.markdown-preview-github-styles
 code --install-extension CoenraadS.bracket-pair-colorizer
 code --install-extension Compulim.vscode-ipaddress
 code --install-extension EditorConfig.EditorConfig
@@ -24,4 +26,5 @@ code --install-extension pnp.polacode
 code --install-extension Prisma.vscode-graphql
 code --install-extension rebornix.Ruby
 code --install-extension tombonnike.vscode-status-bar-format-toggle
+code --install-extension waderyan.gitblame
 code --install-extension wix.vscode-import-cost
