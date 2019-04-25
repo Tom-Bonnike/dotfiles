@@ -1,4 +1,6 @@
 {
+  "breadcrumbs.enabled": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.cursorBlinking": "smooth",
   "editor.foldingStrategy": "indentation",
   "editor.fontFamily": "Fira Code",
@@ -20,11 +22,17 @@
   "editor.showFoldingControls": "always",
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.autoFixOnSave": true,
   "eslint.enable": true,
   "extensions.ignoreRecommendations": true,
   "files.defaultLanguage": "markdown",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
   "javascript.validate.enable": false,
   "path-intellisense.showHiddenFiles": true,
   "prettier.bracketSpacing": true,
@@ -37,8 +45,9 @@
   "prettier.tabWidth": 2,
   "prettier.trailingComma": "none",
   "prettier.useTabs": false,
+  "typescript.suggest.enabled": false,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 2,
   "workbench.activityBar.visible": true,
   "workbench.colorCustomizations": {
     "activityBar.background": "#1B2B34",
