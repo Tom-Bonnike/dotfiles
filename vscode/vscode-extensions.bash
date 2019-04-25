@@ -24,4 +24,6 @@ code --install-extension ms-vscode.sublime-keybindings
 code --install-extension naumovs.color-highlight
 code --install-extension naumovs.theme-oceanicnext
 code --install-extension OfHumanBondage.react-proptypes-intellisense
+code --install-extension pnp.polacode
 code --install-extension tombonnike.vscode-status-bar-format-toggle
+code --install-extension wix.vscode-import-cost
