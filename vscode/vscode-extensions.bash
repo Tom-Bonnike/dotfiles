@@ -10,7 +10,6 @@ code --install-extension Compulim.vscode-ipaddress
 code --install-extension cssho.vscode-svgviewer
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension donjayamanne.githistory
-code --install-extension dzannotti.vscode-babel-coloring
 code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.vscode-npm-script
