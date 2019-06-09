@@ -75,6 +75,7 @@
     "titleBar.activeForeground": "#CCC"
   },
   "workbench.colorTheme": "Oceanic Next",
+  "workbench.editor.enablePreview": false,
   "workbench.editor.tabSizing": "shrink",
   "workbench.fontAliasing": "default",
   "workbench.iconTheme": "file-icons",
