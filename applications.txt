@@ -1,26 +1,22 @@
+Brave Browser.app
 Caffeine.app
 Docker.app
-Firefox.app
+Dropbox.app
 Franz.app
+GIMP.app
 Google Chrome.app
 iTerm.app
 Kap.app
-Keynote.app
 Muzzle.app
-Numbers.app
+NordVPN.app
 Overkill.app
-Pages.app
 Postgres.app
 Postico.app
 Postman.app
-Sketch.app
-Skype.app
-Slack.app
 Spark.app
 Spectacle.app
 Spotify.app
 The Unarchiver.app
-Tunnelblick.app
 uTorrent.app
 Visual Studio Code.app
 VLC.app
