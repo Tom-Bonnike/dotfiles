@@ -1,6 +1,7 @@
 {
   "breadcrumbs.enabled": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.accessibilitySupport": "off",
   "editor.cursorBlinking": "smooth",
   "editor.foldingStrategy": "indentation",
   "editor.fontFamily": "Fira Code",
@@ -10,7 +11,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": false,
-  "editor.insertSpaces": true,
+  "editor.insertSpaces": false,
   "editor.lineHeight": 40,
   "editor.minimap.enabled": false,
   "editor.mouseWheelScrollSensitivity": 1,
@@ -18,13 +19,17 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "none",
-  "editor.rulers": [80, 100],
+  "editor.rulers": [
+    80,
+    100
+  ],
   "editor.showFoldingControls": "always",
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
   "eslint.alwaysShowStatus": true,
   "eslint.autoFixOnSave": true,
   "eslint.enable": true,
+  "eslint.run": "onSave",
   "extensions.ignoreRecommendations": true,
   "files.defaultLanguage": "markdown",
   "files.insertFinalNewline": true,
@@ -34,9 +39,11 @@
   },
   "javascript.updateImportsOnFileMove.enabled": "never",
   "javascript.validate.enable": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "path-intellisense.showHiddenFiles": true,
   "prettier.bracketSpacing": true,
-  "prettier.eslintIntegration": true,
   "prettier.jsxBracketSameLine": false,
   "prettier.parser": "babylon",
   "prettier.printWidth": 80,
