@@ -13,6 +13,7 @@ code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.vscode-npm-script
 code --install-extension esbenp.prettier-vscode
+code --install-extension FerrierBenjamin.fold-unfold-all-icone
 code --install-extension file-icons.file-icons
 code --install-extension flowtype.flow-for-vscode
 code --install-extension jpoissonnier.vscode-styled-components
