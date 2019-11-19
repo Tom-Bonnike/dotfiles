@@ -114,6 +114,8 @@ elif type compctl &>/dev/null; then
   compctl -K _npm_completion npm
 fi
 
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
 export NVM_DIR="$HOME/.nvm"
