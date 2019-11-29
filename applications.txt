@@ -21,3 +21,4 @@ uTorrent.app
 Visual Studio Code.app
 VLC.app
 Xcode.app
+1Password.app
