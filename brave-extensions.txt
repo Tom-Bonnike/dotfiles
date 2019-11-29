@@ -1,0 +1,16 @@
+BrowserStack
+Disable Cookies
+Empty New Tab Page – Black
+Full Page Screen Capture
+Google Analytics Opt-out Add-on (by Google)
+Google Translate
+HTTPS Everywhere
+IBA Opt-out (by Google)
+JSON Formatter
+LastPass: Free Password Manager
+Lighthouse
+ModHeader
+Quick Javascript Switcher
+React Developer Tools
+Redirect Path
+uBlock Origin
