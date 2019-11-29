@@ -14,4 +14,4 @@ Quick Javascript Switcher
 React Developer Tools
 Redirect Path
 uBlock Origin
-1Password (desktop app required)
+1Password
