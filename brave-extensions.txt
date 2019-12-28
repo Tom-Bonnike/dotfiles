@@ -14,5 +14,5 @@ Quick Javascript Switcher
 React Developer Tools
 Redirect Path
 uBlock Origin
-1Password
+1Password extension (desktop app required)
 Safe Torrent Scanner
