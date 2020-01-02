@@ -13,11 +13,11 @@ Overkill.app
 Postgres.app
 Postico.app
 Postman.app
+qBittorrent.app
 Spark.app
 Spectacle.app
 Spotify.app
 The Unarchiver.app
-uTorrent.app
 Visual Studio Code.app
 VLC.app
 Xcode.app
