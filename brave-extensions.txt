@@ -1,3 +1,4 @@
+1Password extension (desktop app required)
 BrowserStack
 Disable Cookies
 Empty New Tab Page – Black
@@ -7,12 +8,9 @@ Google Translate
 HTTPS Everywhere
 IBA Opt-out (by Google)
 JSON Formatter
-LastPass: Free Password Manager
 Lighthouse
 ModHeader
 Quick Javascript Switcher
 React Developer Tools
 Redirect Path
 uBlock Origin
-1Password extension (desktop app required)
-Safe Torrent Scanner
