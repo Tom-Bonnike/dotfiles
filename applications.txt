@@ -1,24 +1,28 @@
-Brave Browser.app
-Caffeine.app
-Docker.app
-Dropbox.app
-Franz.app
-GIMP.app
-Google Chrome.app
-iTerm.app
-Kap.app
-Muzzle.app
-NordVPN.app
-Overkill.app
-Postgres.app
-Postico.app
-Postman.app
-qBittorrent.app
-Spark.app
-Spectacle.app
-Spotify.app
-The Unarchiver.app
-Visual Studio Code.app
-VLC.app
-Xcode.app
-1Password.app
+1Password
+Authy Desktop
+Brave Browser
+Caffeine
+Docker
+Dropbox
+Franz
+GIMP
+Google Chrome
+iTerm
+Kap
+Keynote
+Muzzle
+NordVPN
+Numbers
+Overkill
+Pages
+Plex Media Server
+Postgres
+Postico
+Postman
+qBittorrent
+Spark
+Spotify
+The Unarchiver
+Visual Studio Code
+VLC
+Xcode
