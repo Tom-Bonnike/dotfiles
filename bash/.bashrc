@@ -44,12 +44,12 @@ function prompt_func() {
 
     if [ "$TERM" != "linux" -a -z "$EMACS" ]
     then
-      TITLEBAR="\[\e]2;\u:\w\a\]"
+      TITLEBAR="\[\e]2;\u@\h:\w\a\]"
     else
       TITLEBAR=""
     fi
 
-    prompt="${TITLEBAR}${BLUE}[${YELLOW}\w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
+    prompt="${TITLEBAR}${BLUE}[${YELLOW}\u@\h${RED} \w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
 
     if test $previous_return_value -eq 0
     then
@@ -116,6 +116,8 @@ fi
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
+export PATH=/usr/local/opt/ruby/bin:$PATH
+export PATH=$HOME/.gem/ruby/2.6.3/bin:$PATH
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
 export NVM_DIR="$HOME/.nvm"
