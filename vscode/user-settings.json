@@ -1,7 +1,9 @@
 {
   "breadcrumbs.enabled": true,
   "editor.acceptSuggestionOnCommitCharacter": false,
-  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
   "editor.cursorBlinking": "smooth",
   "editor.foldingStrategy": "indentation",
   "editor.fontFamily": "Fira Code",
@@ -11,7 +13,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": false,
-  "editor.insertSpaces": false,
+  "editor.insertSpaces": true,
   "editor.lineHeight": 40,
   "editor.minimap.enabled": false,
   "editor.mouseWheelScrollSensitivity": 1,
@@ -27,23 +29,24 @@
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
   "eslint.alwaysShowStatus": true,
-  "eslint.autoFixOnSave": true,
   "eslint.enable": true,
-  "eslint.run": "onSave",
   "extensions.ignoreRecommendations": true,
   "files.defaultLanguage": "markdown",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "javascript.updateImportsOnFileMove.enabled": "never",
   "javascript.validate.enable": false,
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "path-intellisense.showHiddenFiles": true,
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.printWidth": 80,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "none",
+  "prettier.useTabs": false,
   "typescript.suggest.enabled": false,
+  "typescript.validate.enable": true,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.zoomLevel": 2,
   "workbench.activityBar.visible": true,
@@ -78,6 +81,14 @@
   "workbench.fontAliasing": "default",
   "workbench.iconTheme": "file-icons",
   "workbench.startupEditor": "none",
-  "workbench.statusBar.feedback.visible": false,
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
