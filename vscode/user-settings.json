@@ -1,5 +1,5 @@
 {
-  "breadcrumbs.enabled": true,
+  "breadcrumbs.enabled": false,
   "editor.acceptSuggestionOnCommitCharacter": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
@@ -13,6 +13,8 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnType": false,
+  "editor.glyphMargin": false,
+  "editor.hideCursorInOverviewRuler": true,
   "editor.insertSpaces": true,
   "editor.lineHeight": 40,
   "editor.minimap.enabled": false,
@@ -25,11 +27,11 @@
     80,
     100
   ],
-  "editor.showFoldingControls": "always",
+  "editor.showFoldingControls": "mouseover",
   "editor.smoothScrolling": true,
   "editor.tabSize": 2,
-  "eslint.alwaysShowStatus": true,
   "eslint.enable": true,
+  "explorer.openEditors.visible": 0,
   "extensions.ignoreRecommendations": true,
   "files.defaultLanguage": "markdown",
   "files.insertFinalNewline": true,
@@ -82,6 +84,7 @@
   "workbench.iconTheme": "file-icons",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": true,
+  "workbench.tree.indent": 6,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
