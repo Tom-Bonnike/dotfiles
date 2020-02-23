@@ -5,7 +5,6 @@ code --install-extension castwide.solargraph
 code --install-extension christian-kohler.path-intellisense
 code --install-extension chrmarti.regex
 code --install-extension CoenraadS.bracket-pair-colorizer
-code --install-extension Compulim.vscode-ipaddress
 code --install-extension cssho.vscode-svgviewer
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
@@ -25,3 +24,4 @@ code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension naumovs.color-highlight
 code --install-extension naumovs.theme-oceanicnext
 code --install-extension tombonnike.vscode-status-bar-format-toggle
+code --install-extension wix.vscode-import-cost
