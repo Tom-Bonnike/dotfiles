@@ -18,7 +18,7 @@ function parse_git_branch {
   diverge_pattern="Your branch and (.*) have diverged"
 
   if [[ ! ${git_status}} =~ "working directory clean" ]]; then
-    state="${LIGHT_RED}⚡"
+    state=" ${LIGHT_RED}⚡"
   fi
 
   if [[ ${git_status} =~ ${remote_pattern} ]]; then
@@ -44,12 +44,12 @@ function prompt_func() {
 
     if [ "$TERM" != "linux" -a -z "$EMACS" ]
     then
-      TITLEBAR="\[\e]2;\u@\h:\w\a\]"
+      TITLEBAR="\[\e]2;\u:\w\a\]"
     else
       TITLEBAR=""
     fi
 
-    prompt="${TITLEBAR}${BLUE}[${YELLOW}\u@\h${RED} \w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
+    prompt="${TITLEBAR}${BLUE}[${YELLOW}\w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
 
     if test $previous_return_value -eq 0
     then
