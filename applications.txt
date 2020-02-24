@@ -4,6 +4,7 @@ Brave Browser
 Caffeine
 Docker
 Dropbox
+Firefox
 Franz
 GIMP
 Google Chrome
@@ -20,6 +21,7 @@ Postgres
 Postico
 Postman
 qBittorrent
+Skype
 Spark
 Spotify
 The Unarchiver
