@@ -66,5 +66,8 @@
   new = green bold
   whitespace = red reverse
 
+[init]
+  templatedir = ~/.git-templates
+
 [help]
   autocorrect = 1
