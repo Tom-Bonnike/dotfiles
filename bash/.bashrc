@@ -8,8 +8,6 @@ LIGHT_GREEN="\[\033[1;32m\]"
  LIGHT_GRAY="\[\033[0;37m\]"
  COLOR_NONE="\[\e[0m\]"
 
-alias ls="ls -AG"
-
 function parse_git_branch {
   git rev-parse --git-dir &> /dev/null
   git_status="$(git status 2> /dev/null)"
@@ -49,11 +47,11 @@ function prompt_func() {
       TITLEBAR=""
     fi
 
-    prompt="${TITLEBAR}${BLUE}[${YELLOW}\w${GREEN}$(parse_git_branch)${BLUE}]${COLOR_NONE}"
+    prompt="${TITLEBAR}"
 
     if test $previous_return_value -eq 0
     then
-      PS1="${prompt}${GREEN}\\\$${COLOR_NONE} "
+      PS1="${prompt}${YELLOW}\\\$${COLOR_NONE} "
     else
       PS1="${prompt}${LIGHT_RED}\\\$${COLOR_NONE} "
     fi
