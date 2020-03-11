@@ -1,4 +1,5 @@
 # Generated using: brew list | xargs -L 1 echo brew install
+brew install bat
 brew install diff-so-fancy
 brew install exiftool
 brew install gdbm
