@@ -1,3 +1,6 @@
+alias ls="ls -AG"
+alias cat="bat --theme=TwoDark"
+
 alias "gti=git"
 alias "igt=git"
 alias "gi=git"
