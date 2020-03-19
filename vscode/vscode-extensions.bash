@@ -14,12 +14,12 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension FerrierBenjamin.fold-unfold-all-icone
 code --install-extension file-icons.file-icons
 code --install-extension flowtype.flow-for-vscode
+code --install-extension formulahendry.auto-close-tag
 code --install-extension ionutvmi.path-autocomplete
 code --install-extension JamesBirtles.svelte-vscode
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension kumar-harsh.graphql-for-vscode
 code --install-extension mgmcdermott.vscode-language-babel
-code --install-extension ms-vscode.Go
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension naumovs.color-highlight
