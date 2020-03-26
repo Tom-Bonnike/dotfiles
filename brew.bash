@@ -10,6 +10,7 @@ brew install python
 brew install readline
 brew install sqlite
 brew install xz
+brew install yarn
 
 # Generated using: brew cask list | xargs -L 1 echo brew cask install
 brew cask install ngrok
