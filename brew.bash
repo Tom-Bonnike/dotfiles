@@ -3,9 +3,11 @@ brew install bat
 brew install diff-so-fancy
 brew install exiftool
 brew install gdbm
-brew install oniguruma
+brew install icu4c
+brew install node
 brew install nvm
-brew install openssl
+brew install oniguruma
+brew install openssl@1.1
 brew install python
 brew install readline
 brew install sqlite
