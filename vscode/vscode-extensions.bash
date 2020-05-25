@@ -14,7 +14,6 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension FerrierBenjamin.fold-unfold-all-icone
 code --install-extension file-icons.file-icons
 code --install-extension flowtype.flow-for-vscode
-code --install-extension formulahendry.auto-close-tag
 code --install-extension ionutvmi.path-autocomplete
 code --install-extension JamesBirtles.svelte-vscode
 code --install-extension jpoissonnier.vscode-styled-components
