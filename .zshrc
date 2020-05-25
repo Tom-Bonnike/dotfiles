@@ -20,8 +20,8 @@ PROMPT="%F{yellow}$ %F{reset_color}"
 source $ZSH/oh-my-zsh.sh
 
 # Aliases
-alias ls="exa -lbF --git"
-alias lt="exa --tree --level=2"
+alias ls="exa -a -lbF --git"
+alias lt="exa -a --tree --level=2"
 alias cat="bat --theme=TwoDark"
 
 # Typo aliases
