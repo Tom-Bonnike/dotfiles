@@ -1,5 +1,4 @@
 1Password extension (desktop app required)
-BrowserStack
 Disable Cookies
 Empty New Tab Page – Black
 Full Page Screen Capture
