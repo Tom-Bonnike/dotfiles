@@ -1,5 +1,5 @@
 export ZSH="/Users/tombonnike/.oh-my-zsh"
-export ZSH_AUTOSUGGEST_STRATEGY=(history completion)
+export ZSH_AUTOSUGGEST_STRATEGY=(completion)
 export ZSH_AUTOSUGGEST_USE_ASYNC=true
 
 # NVM & RVM (the plugins below don’t seem to properly add them to the path).
