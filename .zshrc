@@ -26,11 +26,7 @@ alias lt="exa -a --tree --level=2"
 alias cat="bat --theme=TwoDark"
 
 # Typo aliases
-alias gti="git"
-alias igt="git"
-alias gi="git"
-alias gt="git"
-alias it="git"
+alias {it,gi,gt,igt,gti}="git"
 
 # Folder aliases
 alias projects="cd ~/desktop/projects"
