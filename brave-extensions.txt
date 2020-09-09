@@ -1,4 +1,5 @@
 1Password extension (desktop app required)
+CSS Exfil Protection
 Disable Cookies
 Empty New Tab Page – Black
 Full Page Screen Capture
