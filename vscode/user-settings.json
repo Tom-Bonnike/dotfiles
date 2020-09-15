@@ -66,7 +66,7 @@
   },
   "ruby.useBundler": true,
   "ruby.useLanguageServer": true,
-  "stylelint.enable": false,
+  "stylelint.enable": true,
   "telemetry.enableTelemetry": false,
   "typescript.suggest.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "never"
