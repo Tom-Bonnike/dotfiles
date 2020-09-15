@@ -1,8 +1,9 @@
 1Password extension (desktop app required)
+Apollo Client Developer Tools
 CSS Exfil Protection
 Disable Cookies
 Empty New Tab Page – Black
-Full Page Screen Capture
+GoFullpage – Full Page Screen Capture
 Google Analytics Opt-out Add-on (by Google)
 Google Translate
 HTTPS Everywhere
