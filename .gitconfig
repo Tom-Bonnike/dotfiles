@@ -9,6 +9,7 @@
   editor = /usr/local/bin/code -n -w
   pager = diff-so-fancy | less --tabs=2 -RFX
   ignoreCase = false
+  commitGraph = true
 
 [alias]
   # Not-so-human-friendly aliases
@@ -72,3 +73,9 @@
 
 [help]
   autocorrect = 1
+  
+[diff]
+  algorithm = patience
+  
+[gc]
+  writeCommitGraph = true
