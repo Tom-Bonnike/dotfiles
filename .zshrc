@@ -12,7 +12,7 @@ plugins=(
   git-open
   npm
   nvm
-  rvm
+# rvm
   yarn
   zsh-autosuggestions
 )
