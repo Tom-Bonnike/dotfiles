@@ -8,7 +8,7 @@ brew install icu4c
 brew install node
 brew install nvm
 brew install oniguruma
-brew install openssl@1.1
+brew install openssl
 brew install python
 brew install readline
 brew install sqlite
