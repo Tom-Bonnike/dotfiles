@@ -69,7 +69,7 @@
   "stylelint.enable": true,
   "telemetry.enableTelemetry": false,
   "typescript.suggest.enabled": true,
-  "typescript.updateImportsOnFileMove.enabled": "never"
+  "typescript.updateImportsOnFileMove.enabled": "never",
   "typescript.validate.enable": true,
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "window.zoomLevel": 2,
