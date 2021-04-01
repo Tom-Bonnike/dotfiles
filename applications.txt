@@ -21,6 +21,7 @@ Postgres
 Postico
 Postman
 qBittorrent
+Signal
 Skype
 Spark
 Spotify
