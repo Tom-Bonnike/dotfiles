@@ -5,7 +5,6 @@ Caffeine
 Docker
 Dropbox
 Firefox
-Franz
 GIMP
 Google Chrome
 iTerm
