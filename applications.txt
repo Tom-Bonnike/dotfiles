@@ -27,4 +27,5 @@ Spotify
 The Unarchiver
 Visual Studio Code
 VLC
+WhatsApp
 Xcode
