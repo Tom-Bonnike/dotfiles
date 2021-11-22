@@ -2,12 +2,8 @@
 Authy Desktop
 Brave Browser
 Caffeine
-Docker
 Dropbox
 Fig
-Firefox
-GIMP
-Google Chrome
 iTerm
 Kap
 Karabiner Elements
@@ -18,16 +14,11 @@ Numbers
 Overkill
 Pages
 Plex Media Server
-Postgres
-Postico
-Postman
 qBittorrent
 Signal
-Skype
 Spark
 Spotify
 The Unarchiver
 Visual Studio Code
 VLC
 WhatsApp
-Xcode
