@@ -4,6 +4,7 @@ Brave Browser
 Caffeine
 Docker
 Dropbox
+Fig
 Firefox
 GIMP
 Google Chrome
