@@ -72,7 +72,7 @@
   templatedir = ~/.git-templates
 
 [help]
-  autocorrect = 1
+  autocorrect = immediate
   
 [diff]
   algorithm = patience
