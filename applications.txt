@@ -15,6 +15,7 @@ Overkill
 Pages
 Plex Media Server
 qBittorrent
+RectangleApp
 Signal
 Spark
 Spotify
