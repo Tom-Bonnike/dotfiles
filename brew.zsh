@@ -14,5 +14,5 @@ brew install readline
 brew install sqlite
 brew install yarn
 
-# Generated using: brew cask list | xargs -L 1 echo brew cask install
-brew cask install ngrok
+# Generated using: brew search --casks "" | xargs -L 1 echo brew install --cask
+brew install --cask ngrok
