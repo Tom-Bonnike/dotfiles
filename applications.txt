@@ -20,7 +20,6 @@ Signal
 Spark
 Spotify
 The Unarchiver
-Unclack
 Visual Studio Code
 VLC
 WhatsApp
