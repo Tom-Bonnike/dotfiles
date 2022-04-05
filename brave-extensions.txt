@@ -1,8 +1,6 @@
 1Password extension (desktop app required)
 Apollo Client Developer Tools
 CSS Exfil Protection
-Disable Cookies
-Empty New Tab Page – Black
 GoFullpage – Full Page Screen Capture
 Google Analytics Opt-out Add-on (by Google)
 Google Translate
@@ -11,7 +9,9 @@ IBA Opt-out (by Google)
 JSON Formatter
 Lighthouse
 ModHeader
-Quick Javascript Switcher
+Netflix Subtitle Translator
 React Developer Tools
 Redirect Path
+Teleparty
 uBlock Origin
+WebRTC Network Limiter
