@@ -1,4 +1,5 @@
 1Password extension (desktop app required)
+axe DevTools - Web Accessibility Testing
 Apollo Client Developer Tools
 CSS Exfil Protection
 GoFullpage – Full Page Screen Capture
