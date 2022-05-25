@@ -5,7 +5,6 @@ CSS Exfil Protection
 GoFullpage – Full Page Screen Capture
 Google Analytics Opt-out Add-on (by Google)
 Google Translate
-HTTPS Everywhere
 IBA Opt-out (by Google)
 JSON Formatter
 Lighthouse
