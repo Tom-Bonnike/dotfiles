@@ -9,7 +9,6 @@ IBA Opt-out (by Google)
 JSON Formatter
 Lighthouse
 ModHeader
-Netflix Subtitle Translator
 React Developer Tools
 Redirect Path
 Teleparty
