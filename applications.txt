@@ -8,7 +8,6 @@ iTerm
 Kap
 Karabiner Elements
 Keynote
-Muzzle
 NordVPN
 Numbers
 Overkill
