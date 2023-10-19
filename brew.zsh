@@ -16,3 +16,4 @@ brew install yarn
 
 # Generated using: brew search --casks "" | xargs -L 1 echo brew install --cask
 brew install --cask ngrok
+brew install --cask overkill
