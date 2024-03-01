@@ -3,7 +3,6 @@ Authy Desktop
 Brave Browser
 Caffeine
 Dropbox
-Hemingway Editor
 iTerm
 Kap
 Karabiner Elements
