@@ -16,8 +16,6 @@ Plex Media Server
 qBittorrent
 RectangleApp
 Signal
-Spark
-Spotify
 The Unarchiver
 Visual Studio Code
 VLC
