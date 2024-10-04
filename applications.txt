@@ -13,7 +13,6 @@ Overkill
 Pages
 Plex Media Server
 qBittorrent
-RectangleApp
 Signal
 The Unarchiver
 Visual Studio Code
