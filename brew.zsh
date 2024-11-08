@@ -1,7 +1,7 @@
 # Generated using: brew list | xargs -L 1 echo brew install
 brew install bat
 brew install diff-so-fancy
-brew install exa
+brew install eza
 brew install exiftool
 brew install gdbm
 brew install icu4c
