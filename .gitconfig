@@ -10,6 +10,8 @@
   pager = diff-so-fancy | less --tabs=2 -RFX
   ignoreCase = false
   commitGraph = true
+  fsmonitor = true
+  untrackedCache = true
 
 [alias]
   # Not-so-human-friendly aliases
@@ -41,14 +43,18 @@
   fsckobjects = true
 
 [fetch]
-  prune = true
+  all = true
   fsckobjects = true
+  prune = true
+  pruneTags = true
 
 [receive]
   fsckObjects = true
 
 [push]
   default = current
+  autoSetupRemote = true
+  followTags = true
 
 [status]
   showUntrackedFiles = all
@@ -70,12 +76,41 @@
 
 [init]
   templatedir = ~/.git-templates
+  defaultBranch = main
 
 [help]
   autocorrect = immediate
   
 [diff]
-  algorithm = patience
+  algorithm = histogram
+  colorMoved = plain
+  mnemonicPrefix = true
+  renames = true
   
 [gc]
   writeCommitGraph = true
+
+[column]
+  ui = auto
+
+[branch]
+  sort = -committerdate
+
+[tag]
+  sort = version:refname
+
+[commit]
+  verbose = true
+
+[rerere]
+  enabled = true
+  autoupdate = true
+
+[rebase]
+  updateRefs = true
+
+[merge]
+  conflictstyle = zdiff3
+
+[pull]
+  rebase = true
