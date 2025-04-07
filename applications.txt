@@ -4,7 +4,6 @@ Brave Browser
 Caffeine
 Dropbox
 iTerm
-Kap
 Karabiner Elements
 Keynote
 NordVPN
